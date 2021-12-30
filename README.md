@@ -1,6 +1,5 @@
-#公局
-010 Editor                                     - SweetScape Software
---------------------------------------------------------------------
+
+010 Editor                                     - SweetScape 
 
 010 Editor (pronounced 'oh-one-oh') is a professional text and hex 
 editor containing a whole range of editing and analysis tools. Hex 
